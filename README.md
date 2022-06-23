@@ -1,3 +1,3 @@
 # Foundry Example
 
-### Basically my first time using foundry
+Basically my first time using foundry
